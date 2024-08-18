@@ -1,11 +1,11 @@
-authors = ["Margret Riegert <margret@eowyn.net>"]
-description = "Syntax highlighting for Crystal"
-id = "crystal"
-name = "Crystal"
-repository = "https://github.com/crystal-lang-tools/zed-crystal"
+authors = ["jonas peitz <jonaspeitz@proton.me>"]
+description = "Syntax highlighting for Odin"
+id = "odin"
+name = "Odin"
+repository = "https://github.com/jpx40/zed-odin"
 schema_version = 1
 version = "0.0.1"
 
-[grammars.crystal]
-commit = "61cc201c8eb3b6fd4d4eb3e0ac6c303a580eeb6b"
-repository = "https://github.com/crystal-lang-tools/tree-sitter"
+[grammars.odin]
+commit = "05984368e605c852cf4fa11c51e77c6aef0bd3d1"
+repository = "https://github.com/laytan/odin-tree-sitter"
