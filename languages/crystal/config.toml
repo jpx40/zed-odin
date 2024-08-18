@@ -1,6 +1,6 @@
-name = "Crystal"
-grammar = "crystal"
-path_suffixes = ["cr"]
+name = "Odin"
+grammar = "odin"
+path_suffixes = ["odin"]
 line_comments = ["# "]
 autoclose_before = "}])"
 brackets = [
